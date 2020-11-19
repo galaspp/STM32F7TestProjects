@@ -1,0 +1,4 @@
+canAPI.c:19:16:canAPIInit	56	static
+canAPI.c:82:16:canAPIRun	24	static
+canAPI.c:140:6:handleCANReceiveInterrupt	64	static
+canAPI.c:165:6:HAL_CAN_RxFifo0MsgPendingCallback	0	static

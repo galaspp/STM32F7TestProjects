@@ -1,0 +1,7 @@
+timeout.c:15:6:initTimeout	0	static
+timeout.c:24:10:getTimeoutMS	0	static
+timeout.c:29:6:addTimeoutMS	0	static
+timeout.c:40:6:clearTimeutMS	0	static
+timeout.c:45:6:hasTimedOut	0	static
+timeout.c:55:6:handleHeartbeatLED	16	static
+timeout.c:64:6:HAL_TIM_PeriodElapsedCallback	0	static
